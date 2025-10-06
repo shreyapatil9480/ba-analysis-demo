@@ -9,6 +9,10 @@ This repository contains a synthetic dataset and analysis for demonstrating data
 - **analysis.ipynb** – A Jupyter notebook that performs exploratory data analysis, visualizes key relationships, and builds a logistic regression model to predict project success.
 - **requirements.txt** – List of Python libraries used.
 
+## Objective
+
+This repository demonstrates analytical skills by generating a synthetic portfolio dataset, performing exploratory data analysis, and building predictive models. It's tailored for showcasing capabilities relevant to business analysts, program managers, and data analysts roles.
+
 ## Synthetic Dataset
 
 The dataset includes the following columns:
